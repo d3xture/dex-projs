@@ -56,7 +56,7 @@ int main()
     cout << "Enter: ";
     cin >> askFellow;
 
-    if(HuzaifaHaris==1){
+    if(askFellow){
     cout << "Are you interested in checking the overall results or a particular subject's result?" << endl;
     cout << "1. Overall Results" << endl;
     cout << "2. Particular Subject" << endl;
